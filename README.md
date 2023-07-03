@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=FFFFFF&width=435&lines=Nice+to+meet+you!!;%E3%82%88%E3%82%8B%E3%81%97%E3%81%8F%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%81%97%E3%81%BE%E3%81%99!!)](https://git.io/typing-svg)
 
-<a title="Total time coded in 2023" href="https://wakatime.com/@6055ae70-d556-4248-90b9-efccb7eb9499"><img src="https://wakatime.com/badge/user/6055ae70-d556-4248-90b9-efccb7eb9499.svg?style=flat-square" alt="Total time coded in 2023" /></a>
-
 - 🔭 I’m currently working on [Realistiq](https://github.com/zahid47/Realistiq)
 
 - 🌱 I’m currently learning DSA and [Next 13](https://nextjs.org)
@@ -43,3 +41,7 @@
 <img title="postman" alt="postman" height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/postman" />
 <img title="vitest" alt="vitest" height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/vitest" />
 </p>
+
+---
+
+<a title="Total time coded in 2023" href="https://wakatime.com/@6055ae70-d556-4248-90b9-efccb7eb9499"><img src="https://wakatime.com/badge/user/6055ae70-d556-4248-90b9-efccb7eb9499.svg?style=flat-square" alt="Total time coded in 2023" /></a>
