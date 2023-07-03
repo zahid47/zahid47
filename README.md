@@ -20,27 +20,29 @@
 
 ---
 
-### Technologies & Tools
+### Some tools I use
 
 <br/>
 
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/visualstudiocode" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/typescript" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/nodedotjs" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/python" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/react" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/nextdotjs" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/express" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/adonisjs" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/socketdotio" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/prisma" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/mongodb" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/redis" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/linux" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/git" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/figma" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/postman" />
-<img height="24" width="24" style="padding-right:10px; display: inline" src="https://cdn.simpleicons.org/vitest" />
+<p>
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/visualstudiocode" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/typescript" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/python" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/react" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/nextdotjs" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/express" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/adonisjs" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/socketdotio" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/prisma" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/mongodb" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/redis" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/linux" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/git" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/figma" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/postman" />
+<img height="24" width="24" style="padding-right:10px;" src="https://cdn.simpleicons.org/vitest" />
+</p>
 
 ---
 
