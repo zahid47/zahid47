@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Realistiq](https://github.com/zahid47/Realistiq)
 
-- 🌱 I’m currently learning DSA and [Next 13](https://nextjs.org)
+- 🌱 I’m currently learning DSA and [Next13](https://nextjs.org)
 
 - 🎯 Next, I want to learn [NestJS](https://nestjs.com), [RabbitMQ](https://www.rabbitmq.com) and [DrizzleORM](https://github.com/drizzle-team/drizzle-orm)
 
-- 👯 I’m also looking to collaborate on open source projects. So far contributed in [aiida-core](https://github.com/aiidateam/aiida-core) and [documenso](https://github.com/documenso/documenso)
+- 👯 I’m also looking to collaborate on open-source projects. So far contributed in [aiida-core](https://github.com/aiidateam/aiida-core) and [documenso](https://github.com/documenso/documenso)
 
 - 🛬 My goal in 2023 is going to 🇯🇵 Japan!
 
