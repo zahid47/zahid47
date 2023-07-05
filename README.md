@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Realistiq](https://github.com/zahid47/Realistiq)
 
-- 🌱 I’m currently learning DSA and [Next13](https://nextjs.org)
+- 🌱 I’m currently learning DSA and [Next.js13](https://nextjs.org)
 
 - 🎯 Next, I want to learn [NestJS](https://nestjs.com), [RabbitMQ](https://www.rabbitmq.com) and [DrizzleORM](https://github.com/drizzle-team/drizzle-orm)
 
