@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1200&color=FFFFFF&width=435&lines=Nice+to+meet+you!!;%E3%82%88%E3%82%8B%E3%81%97%E3%81%8F%E3%81%8A%E3%81%AD%E3%81%8C%E3%81%84%E3%81%97%E3%81%BE%E3%81%99!!)](#)
 
-- 🔭 I’m currently working on [Realistiq.](https://github.com/zahid47/Realistiq)
+- 🔭 I’m currently working on [Realistiq](https://github.com/zahid47/Realistiq).
 
-- 🌱 I’m currently learning DSA and [Next.js13.](https://nextjs.org)
+- 🌱 I’m currently learning DSA and [Next.js13](https://nextjs.org).
 
 - 🎯 Next, I want to learn [NestJS](https://nestjs.com) and Microservices.
 
