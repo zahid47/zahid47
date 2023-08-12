@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning DSA and [Next.js13](https://nextjs.org)
 
-- 🎯 Next, I want to learn [NestJS](https://nestjs.com), [RabbitMQ](https://www.rabbitmq.com) and [DrizzleORM](https://github.com/drizzle-team/drizzle-orm)
+- 🎯 Next, I want to learn [NestJS](https://nestjs.com) and Microservices.
 
 - 👯 I’m looking to collaborate on meaningful open-source projects.
 
