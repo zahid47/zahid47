@@ -8,11 +8,9 @@
 
 - 🎯 Next, I want to learn [NestJS](https://nestjs.com) and Microservices.
 
-- 👯 I’m looking to collaborate on meaningful open-source projects.
+- 👯 I’m looking to collaborate on impactful open-source projects.
 
 - 🍣 I'm also learning Japanese.　おもしろいですね！
-
-- 🛬 My goal in 2023 is going to 🇯🇵 Japan!
 
 - 🦆 I love ducks!
 
